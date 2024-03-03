@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "YouTube Clone Advanced Features",
+    "Desc": "Implemented advanced search features including debounced API calls, optimized cache memory, auto-suggestions, and categorized search options. Resulted in a 40% increase in user engagement and 25% reduction in bounce rate. Utilized Redux Toolkit, React.js, and Tailwind CSS for scalable state management. Enabled nested commenting for deeper discussions with real-time interaction inspired by YouTube's chat. Offered customizable light/dark mode toggle",
+    "Demo": "https://youtube-web-krishankant.netlify.app/",
+    "GithubLink":"https://github.com/krishankantkk/youtube-clone",
+    "ImgSrc": "./project1.png"
+  },
+
+  {
+    "Name": "My Chat Application",
+    "Desc": "Led the development of a real-time chat application using React.js and Firebase, demonstrating full-stack proficiency. Implemented robust user registration and authentication services for secure access. Engineered advanced private messaging functionalities and integrated media sharing features to enhance user interaction. Utilized technologies including React, Firebase, SCSS, Authentication, and ContextAPI.",
+    "GithubLink": "https://github.com/krishankantkk/chat-app",
+    "Demo": "https://chat-app-firebase-krishan-kant.netlify.app/",
+    "ImgSrc": "./project2.png"
+  },
+
+  {
+    "Name": "Shopping Cart System",
+    "Desc": "Developed a robust shopping cart system with features for product management, real-time price updates, and precise cost tracking. Enabled transparent tracking of product costs, promoting transparency and aiding users in making informed purchasing decisions.",
+    "GithubLink": "https://github.com/krishankantkk/shoping-cart-js",
+    "Demo": "https://shoping-cart-krishan-kant.netlify.app/",
+    "ImgSrc": "./project4.png"
+  },
+
+  {
+    "Name": "Weather Forecast",
+    "Desc": "Implemented a Current Location Weather feature utilizing GeoLocation to dynamically display weather based on the user's location. Integrated City Search functionality for detailed weather information retrieval. Provided responsive weather forecasts for the next 5 days.",
+    "GithubLink": "https://github.com/krishankantkk/weather-forecast",
+    "Demo": "https://weather-farcast-kk.netlify.app/",
+    "ImgSrc": "./project5.png"
+  },
+
+  {
+    "Name": "Snake Game",
+    "Desc": "Developed user-friendly controls with intuitive interface elements to enhance user interaction. Implemented precise collision detection systems to ensure smooth gameplay..",
+    "GithubLink": "https://github.com/krishankantkk/snake",
+    "Demo": "https://krishankant-snake-game.netlify.app/",
+    "ImgSrc": "./project6.png"
+  },
+  {
+    "Name": "My Interactive TodoMaster",
+    "Desc": "TodoMaster offers easy task management with features to effortlessly add, edit, and delete tasks through a user-friendly interface. Experience real-time updates without page refresh, thanks to local storage integration. Customize task priority for effective progress tracking. Enjoy a responsive design ensuring consistent user experience across desktops, tablets, and smartphones.",
+    "GithubLink": "https://github.com/krishankantkk/todo-app",
+    "Demo": "https://krishankant-todo-app.netlify.app/",
+    "ImgSrc": "./project7.png"
+  }
+]

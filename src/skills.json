@@ -1,0 +1,69 @@
+[{
+  "name":"C++",
+  "path":"./c.svg"
+},
+  {
+    "name": "HTML",
+    "path": "./HTML.svg"
+  },
+  {
+    "name": "CSS",
+    "path": "./css.svg"
+  },
+  {
+    "name": "SASS",
+    "path": "./sass.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "path": "./bootstrap-5-1.svg"
+  },
+  {
+    "name": "Tailwind",
+    "path": "./tailwind-css-2.svg"
+  },
+  {
+    "name": "JavaScript",
+    "path": "./javascript.svg"
+  },
+  {
+    "name": "React",
+    "path": "./react.svg"
+  },
+  {
+    "name":"Redux",
+    "path":"./redux.svg"
+  },
+  {
+    "name": "Node.js",
+    "path": "./nodejs-icon.svg"
+  },
+  {
+    "name": "Express JS",
+    "path": "./icons8-express-js.svg"
+  },
+
+
+  {
+    "name": "SQL",
+    "path": "./sql.svg"
+  },
+  {
+    "name":"MongoDB",
+    "path":"./mongodb.svg"
+  },
+
+  {
+    "name": "Git & Github",
+    "path": "./github.svg"
+  },
+
+  {
+    "name": "Postman",
+    "path": "./postman.svg"
+  },
+  {
+    "name": "VS Code",
+    "path": "./visual-studio-code.svg"
+  }
+]
