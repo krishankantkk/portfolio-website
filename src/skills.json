@@ -1,7 +1,16 @@
-[{
-  "name":"C++",
-  "path":"./c.svg"
-},
+[
+  {
+    "name": "C++",
+    "path": "./c.svg"
+  },
+  {
+    "name": "JavaScript",
+    "path": "./javascript.svg"
+  },
+  {
+    "name": "NextJs",
+    "path": "./nextjs-icon-svgrepo-com.svg"
+  },
   {
     "name": "HTML",
     "path": "./HTML.svg"
@@ -22,17 +31,14 @@
     "name": "Tailwind",
     "path": "./tailwind-css-2.svg"
   },
-  {
-    "name": "JavaScript",
-    "path": "./javascript.svg"
-  },
+
   {
     "name": "React",
     "path": "./react.svg"
   },
   {
-    "name":"Redux",
-    "path":"./redux.svg"
+    "name": "Redux",
+    "path": "./redux.svg"
   },
   {
     "name": "Node.js",
@@ -43,14 +49,13 @@
     "path": "./icons8-express-js.svg"
   },
 
-
   {
     "name": "SQL",
     "path": "./sql.svg"
   },
   {
-    "name":"MongoDB",
-    "path":"./mongodb.svg"
+    "name": "MongoDB",
+    "path": "./mongodb.svg"
   },
 
   {

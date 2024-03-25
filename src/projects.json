@@ -1,9 +1,16 @@
 [
   {
+    "Name": "Smart Note App with AI Integration",
+    "Desc": "Created a custom Next.js chatbot app with enabling CRUD operations and integrating OpenAI ChatGPT for conversational AI. Leveraged Vercel AI SDK and Pinecone for enhanced note-taking features. Designed intuitive UI with Shadcn UI and Tailwind CSS. Utilized TypeScript for development efficiency and Prisma for streamlined database operations. Integrated Clerk for secure authentication and data protection.",
+    "Demo": "https://smart-note-app.vercel.app/",
+    "GithubLink": "https://github.com/krishankantkk/smart-note-app",
+    "ImgSrc": "./project8.png"
+  },
+  {
     "Name": "YouTube Clone Advanced Features",
     "Desc": "Implemented advanced search features including debounced API calls, optimized cache memory, auto-suggestions, and categorized search options. Resulted in a 40% increase in user engagement and 25% reduction in bounce rate. Utilized Redux Toolkit, React.js, and Tailwind CSS for scalable state management. Enabled nested commenting for deeper discussions with real-time interaction inspired by YouTube's chat. Offered customizable light/dark mode toggle",
     "Demo": "https://youtube-web-krishankant.netlify.app/",
-    "GithubLink":"https://github.com/krishankantkk/youtube-clone",
+    "GithubLink": "https://github.com/krishankantkk/youtube-clone",
     "ImgSrc": "./project1.png"
   },
 
